@@ -1,0 +1,1 @@
+var fullName: String = "Dede agus saputra"
